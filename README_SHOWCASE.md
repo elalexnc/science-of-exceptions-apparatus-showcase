@@ -2,6 +2,13 @@
 
 This branch is a structure-only preview for presentation and CV purposes.
 
+## Deeper Layer (still public-safe)
+- `WHAT_IT_DOES.md`
+- `ARCHITECTURE.md`
+- `WORKFLOW.md`
+- `ROADMAP.md`
+- `STRUCTURE.md`
+
 ## What is included
 - High-level project structure
 - Non-clinical boundary statement
